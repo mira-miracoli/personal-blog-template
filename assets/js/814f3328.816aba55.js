@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkpersonal_blog_template=self.webpackChunkpersonal_blog_template||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"All our posts","items":[{"title":"Warum dieser Blog?","permalink":"/blog/Miracol\xed"}]}')}}]);
