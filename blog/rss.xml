@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Miracoli Blog</title>
+        <link>https://mira-miracoli.github.io/blog</link>
+        <description>Miracoli Blog</description>
+        <lastBuildDate>Thu, 26 Aug 2021 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[Warum dieser Blog?]]></title>
+            <link>https://mira-miracoli.github.io/blog/Miracolí</link>
+            <guid>https://mira-miracoli.github.io/blog/Miracolí</guid>
+            <pubDate>Thu, 26 Aug 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Willkommen auf Miracolí, meinem, persönlichem Blog.]]></description>
+            <content:encoded><![CDATA[<p>Willkommen auf Miracolí, meinem, persönlichem Blog.
+Ich will ihn vor Allem als Ersatz für Social Media und als eine Mischung aus Tagebuch und »Mappe« für meine Hobbyprojekte nutzen. Tagebuch aber nicht im Sinn eines echten, persönlichen Tagebuchs, sondern um Alltagserfahrungen zu teilen, zu meckern, nachzudenken und begeistert zu sein. Um die Dinge die ich tue nicht in der Schublade verschwinden zu lassen, auch wenn sie vielleicht gar nicht von großem Nutzen für andere sind.<br>
+<!-- -->Mögliche Themen sind Pen and Paper, Queer-Feminismus und Self-Hosting.
+Ich habe mich für das Format des Blogs entschieden, weil ich Social Media nicht mag.<br>
+<!-- -->Es war für mich ein Ort des Vergleichens, des Selbstoptimierens und die Entwicklung hin zu einem Ort politischer Schlammschlachten, Hetze und KI-Content-Friedhof hat das nicht verbessert.
+Das Format Blog hat deshalb für mich einige Vorteile:</p><ul><li>Ich muss nicht interagieren. Das klingt so als möge ich keine Menschen; das gegenteil ist der Fall, aber deshalb will ich sie physisch sehen und nicht mit ihnen auf Social Media interagiren.</li><li>Es gibt keinen Like Button und keine Impression Stats.</li><li>Ich entscheide was ich mir sonst anschaue.</li><li>Der Blog kann multimedial und anpassbar sein</li><li>Social Media ist böse ;)</li><li>Ich habe vor längere Beiträge, Arbeiten und Projekte zu veröffentlichen, das ist auf Social Media Plattformen nur eingeschränkt oder kaum möglich und ich müsste mich an die Plattform anpassen und nicht umgekehrt.</li></ul><p>Der Blog ist vor Allem für meine Freunde und Bekannten gedacht.</p>]]></content:encoded>
+            <category>hello</category>
+        </item>
+    </channel>
+</rss>
