@@ -13,19 +13,6 @@ const projectName = "personal-blog"; // your repo name, ex: docusaurus-2, this i
 const baseUrl = "/";
 const footerLinks = [
     {
-        title: 'Miracoli',
-        items: [
-            {
-                label: 'Home',
-                to: '/',
-            },
-        ],
-    },
-    {
-        title: 'Community',
-        items: [],
-    },
-    {
         title: 'More',
         items: [
             {
@@ -180,24 +167,7 @@ const config = {
                     }
                 },
                 items: [
-                    {
-                        type: 'docSidebar',
-                        sidebarId: 'tutorialSidebar',
-                        position: 'left',
-                        label: 'Tutorial',
-                    },
                     { to: '/blog', label: 'Blog', position: 'left' },
-                    { to: '/showcase', label: 'Showcase', position: 'left' },
-                    // { to: '/cv', label: 'CV', position: 'left' },
-                    { to: '/community', label: 'Community', position: 'left' },
-                    { to: '/contact', label: 'Contact', position: 'left' },
-                    {
-                        href: 'https://github.com/mira-miracoli',
-                        // label: 'GitHub',
-                        position: 'right',
-                        className: "header-github-link",
-                    },
-
                 ],
             },
             footer: {
