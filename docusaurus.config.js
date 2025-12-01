@@ -30,7 +30,7 @@ const footerLinks = [
 /** @type {import('@docusaurus/types').Config} */
 const config = {
     title: 'Miracoli',
-    tagline: 'Tag line of Miracoli',
+    tagline: '...la lala lala la la lalalalala lala la',
     favicon: 'img/favicon.ico',
 
     // Set the production url of your site here
